@@ -10,9 +10,6 @@
   "keywords": [
     "gatsby"
   ],
-  "engines": {
-    "node": ">=18.17.0"
-  },
   "license": "MIT",
   "browserslist": "> 0.25%, not dead",
   "scripts": {
