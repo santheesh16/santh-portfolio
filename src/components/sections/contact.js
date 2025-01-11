@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import { srConfig, email } from '@config';
 import sr from '@utils/sr';
 import { usePrefersReducedMotion } from '@hooks';
+import Typewriter from 'typewriter-effect';
 
 const StyledContactSection = styled.section`
   max-width: 600px;
@@ -60,12 +61,19 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        Although I’m not currently looking for any new opportunities, my inbox is always open.
-        Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+        To evolve the possibilities of working together, please feel free to reach out. Whether
+        you’re
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
-        Say Hello
+        <Typewriter
+          options={{
+            strings: ['Say Hello!'],
+            autoStart: true,
+            loop: true,
+            delay: 50,
+          }}
+        />
       </a>
     </StyledContactSection>
   );
