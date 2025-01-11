@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'ChatPDF AI'
 cover: './chatPDF.png'
 cta: ''
@@ -9,7 +9,7 @@ tech:
   - Next.js
   - PineconeDB
   - OpenAI API
-  - TailwindCSS
+  - AWS S3
 ---
 
 An AI-powered ChatPDF project using React, TypeScript, Next.js, and Pinecone to enable seamless document processing and intelligent chat interactions.

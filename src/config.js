@@ -7,12 +7,12 @@ module.exports = {
       url: 'https://github.com/santheesh16',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/santheesh_16',
+      name: 'Notion',
+      url: 'https://www.notion.so/Personal-Portfolio-73f09160f6c94e49bdf7fe59083556ad',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/santheesh62',
+      url: 'https://x.com/ASantheesh1',
     },
     {
       name: 'Linkedin',
