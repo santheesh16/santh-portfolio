@@ -1,7 +1,7 @@
 ---
 date: '2022-04-04'
 title: 'Project Trainee'
-company: 'Zoho Corporation'
+company: 'Zoho Internship'
 location: 'Coimbatore, TN'
 range: 'April 2022 - May 2022'
 url: 'https://www.zoho.com/'

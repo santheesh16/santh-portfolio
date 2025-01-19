@@ -128,6 +128,8 @@ const About = () => {
   const skills = [
     'Python',
     'Java',
+    'Spring Boot',
+    'Kafka',
     'JavaScript (ES6+)',
     'React.js',
     'Next.js',
@@ -135,7 +137,7 @@ const About = () => {
     'Node.js',
     'Typescript',
     'MySQL',
-    'PineconeDB',
+    'REST API',
   ];
 
   return (
@@ -153,12 +155,12 @@ const About = () => {
             </p>
 
             <p>
+              My main focus these days is building accessible, inclusive products and integrating
+              applications at <a href="https://zoho.com/">Zoho Corporation</a> for a diverse range
+              of clients using <a href="https://blog.postman.com/different-types-of-apis/">APIs.</a>{' '}
               Personally, I'm focusing on <a href="https://openai.com/">AI integration</a> with web
               technologies by understanding <a>LLM models</a> to enable seamless interactions with
-              AI. My main focus these days is building accessible, inclusive products and
-              integrating applications at <a href="https://zoho.com/">Zoho Corporation</a> for a
-              diverse range of clients using{' '}
-              <a href="https://blog.postman.com/different-types-of-apis/">APIs.</a>
+              AI.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
