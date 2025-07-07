@@ -132,10 +132,10 @@ const About = () => {
     'Kafka',
     'JavaScript (ES6+)',
     'React.js',
-    'Next.js',
+    'Microservices',
     'TailwindCSS',
     'Node.js',
-    'Typescript',
+    'PostgreSQL',
     'MySQL',
     'REST API',
   ];
@@ -152,15 +152,6 @@ const About = () => {
               to expand my knowledge. I believe in giving my full effort to whatever I undertake in
               the present. Living life with this mindset drives me to continuously challenge myself
               and strive to do more than I ever thought I was capable of.
-            </p>
-
-            <p>
-              My main focus these days is building accessible, inclusive products and integrating
-              applications at <a href="https://zoho.com/">Zoho Corporation</a> for a diverse range
-              of clients using <a href="https://blog.postman.com/different-types-of-apis/">APIs.</a>{' '}
-              Personally, I'm focusing on <a href="https://openai.com/">AI integration</a> with web
-              technologies by understanding <a>LLM models</a> to enable seamless interactions with
-              AI.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
