@@ -90,12 +90,16 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a full stack developer passionate about crafting and integrating exceptional digital
-        experiences. Currently, I'm diving deep into integrating Identity Applications at{' '}
+        I’m a Full Stack Developer passionate about crafting seamless, scalable digital experiences.
+        I specialize in building and integrating robust APIs, with a strong foundation in Java,
+        Spring Boot, ReactJS, and microservices architecture. Currently, I'm focused on integrating
+        Identity and Access Management systems at{' '}
         <a href="https://zoho.com/" target="_blank" rel="noreferrer">
           Zoho Corporation
         </a>
-        , working to enhance security and seamless user experiences.
+        ,enhancing security and enabling smooth user experiences across platforms. I thrive in
+        fast-paced environments where I can apply clean code practices, system design, and
+        algorithmic thinking to build reliable, high-impact solutions.
       </p>
     </>
   );
